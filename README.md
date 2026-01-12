@@ -1,2 +1,3 @@
-# 2026
-IEEE MASS 2026 website
+### Hi there 👋
+
+This is the homepage of IEEE MASS 2026.

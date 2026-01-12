@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   
+
+   <url>
+      <loc>https://mass-conf.github.io/2026/</loc>
+      <lastmod>2026-1-12</lastmod>
+      <priority>1.0</priority>
+   </url>
+
+   <url>
+      <loc>https://mass-conf.github.io/2026/about.html</loc>
+      <lastmod>2026-1-12</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://mass-conf.github.io/2026/registration.html</loc>
+      <lastmod>2026-1-12</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://mass-conf.github.io/2026/venue.html</loc>
+      <lastmod>2026-1-12</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://mass-conf.github.io/2026/patrons.html</loc>
+      <lastmod>2026-1-12</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://mass-conf.github.io/2026/callforpapers.html</loc>
+      <lastmod>2026-1-12</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://mass-conf.github.io/2026/callforposters.html</loc>
+      <lastmod>2026-1-12</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://mass-conf.github.io/2026/submission.html</loc>
+      <lastmod>2026-1-12</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://mass-conf.github.io/2026/callforworkshopproposals.html</loc>
+      <lastmod>2026-1-12</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://mass-conf.github.io/2026/listofworkshops.html</loc>
+      <lastmod>2026-1-12</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://mass-conf.github.io/2026/steeringcommittee.html</loc>
+      <lastmod>2026-1-12</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://mass-conf.github.io/2026/organizingcommittee.html</loc>
+      <lastmod>2026-1-12</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://mass-conf.github.io/2026/programcommittee.html</loc>
+      <lastmod>2026-1-12</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://mass-conf.github.io/2026/programataglance.html</loc>
+      <lastmod>2026-1-12</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://mass-conf.github.io/2026/technicalsessions.html</loc>
+      <lastmod>2026-1-12</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://mass-conf.github.io/2026/keynote.html</loc>
+      <lastmod>2026-1-12</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://mass-conf.github.io/2026/acceptedpapers.html</loc>
+      <lastmod>2026-1-12</lastmod>
+      <priority>0.8</priority>
+   </url>  
+
+</urlset>

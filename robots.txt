@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mass-conf.github.io/2026/sitemap.xml
