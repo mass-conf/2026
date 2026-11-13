@@ -206,7 +206,7 @@ a:hover {
   font-weight: 500;
   transition: 0.3s all;
   text-transform: uppercase;
-  padding: 5px 15px;
+  padding: 5px 12px;
   display: block;
 }
 .navbar .nav-item .nav-link:hover {
